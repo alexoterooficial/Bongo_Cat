@@ -1,6 +1,6 @@
 # Bongo Cat
 
-Este programa se trata de Bongo Cat tocando el piano. Para usar este programa se necesita tener instalado un programa llamado "Scratch", descargar el programa y ejecutarlo en dicho programa. 
+Este programa se trata de Bongo Cat tocando el piano. Para usar este programa se necesita tener instalado una app llamada "Scratch", descargar el archivo y ejecutarlo en dicha app. 
 
 ## Instrucciones
 
